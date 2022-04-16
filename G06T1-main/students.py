@@ -1,4 +1,5 @@
 stuInfo = []
+
 class Students:
     def __init__(self, stuName, stuFamily, stuId):
         self.stuName = stuName
